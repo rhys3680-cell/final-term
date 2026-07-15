@@ -11,7 +11,7 @@ GitHub에서 클릭만 하면 코드와 결과를 함께 볼 수 있습니다.
 | # | 노트북 | 내용 |
 |---|---|---|
 | 01 | [01_dnn_basics](notebooks/01_dnn_basics.ipynb) | Fashion-MNIST로 **과적합을 관찰**하고, LFW 얼굴 인식에서 `EarlyStopping`·`stratify`·혼동 행렬로 해결 |
-| 02 | `02_dnn_pitfalls` *(예정)* | 직접 그린 이미지를 넣었더니 **확률 1.0으로 확신하며 오답**, 12장으로 1000만 파라미터 학습하기 |
+| 02 | [02_dnn_pitfalls](notebooks/02_dnn_pitfalls.ipynb) | 직접 그린 이미지를 넣었더니 **확률 0.99997로 확신하며 오답**, 12장으로 1050만 파라미터 학습하기 |
 | 03 | `03_cnn` *(예정)* | Conv/Pooling, 같은 구조로 MNIST vs Fashion-MNIST 비교 |
 | 04 | `04_cnn_callbacks` *(예정)* | 개 vs 고양이, `EarlyStopping` + `ModelCheckpoint` |
 | 05 | `05_autoencoder` *(예정)* | Dense 디코더 vs Conv 디코더, 2차원 잠재공간 시각화 |
