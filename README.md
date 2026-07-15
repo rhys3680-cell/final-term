@@ -14,7 +14,7 @@ GitHub에서 클릭만 하면 코드와 결과를 함께 볼 수 있습니다.
 | 02 | [02_dnn_pitfalls](notebooks/02_dnn_pitfalls.ipynb) | 직접 그린 이미지를 넣었더니 **확률 0.99997로 확신하며 오답**, 12장으로 1050만 파라미터 학습하기 |
 | 03 | [03_cnn](notebooks/03_cnn.ipynb) | Conv/Pooling으로 **위치 정보를 살리기**, DNN의 1/4 파라미터·1/10 에폭으로 같은 정확도 |
 | 04 | [04_cnn_callbacks](notebooks/04_cnn_callbacks.ipynb) | 개 vs 고양이, `EarlyStopping` + `ModelCheckpoint`로 최적 모델 저장 — 그리고 **202장으론 CNN도 못 배운다** |
-| 05 | `05_autoencoder` *(예정)* | Dense 디코더 vs Conv 디코더, 2차원 잠재공간 시각화 |
+| 05 | [05_autoencoder](notebooks/05_autoencoder.ipynb) | 정답 없이 배우기, Dense vs Conv 디코더(1/67 파라미터), **2차원 잠재공간 시각화**와 숫자 생성 |
 | 06 | `06_rnn` *(예정)* | 문자 예측, 감성 분석, MNIST를 시퀀스로 |
 
 ## 01에서 배운 것
