@@ -19,6 +19,7 @@ GitHub에서 클릭만 하면 코드와 결과를 함께 볼 수 있습니다.
 | 07 | [07_cnn_rnn_scratch](notebooks/07_cnn_rnn_scratch.ipynb) | 밑바닥부터 — CNN·RNN·역전파를 NumPy로 손계산해 Keras와 대조 |
 | 08 | [08_seq2seq](notebooks/08_seq2seq.ipynb) | Seq2Seq 번역(영↔한), `Tokenizer`·`pad_sequences`, Bidirectional·LSTM |
 | 09 | [09_text_preprocessing](notebooks/09_text_preprocessing.ipynb) | 표제어·어간·불용어(영어), KoNLPy 형태소 분석(한국어), **헌법 명사 Top10** |
+| 10 | [10_word_embedding](notebooks/10_word_embedding.ipynb) | 단어를 의미 벡터로 — Word2Vec 원리·2D 시각화, **IMDB 감성분석**(Embedding+LSTM) |
 
 *07은 01~06의 원리를 파헤치는 심화편, 08부터는 Day5 NLP 시리즈입니다.*
 
